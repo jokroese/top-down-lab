@@ -1,0 +1,19 @@
+# Local browser state and course work
+/firefox/profile/
+/firefox/profile-backup*/
+/captures/
+/traces/
+/notes/
+*.pcap
+*.pcapng
+*.cap
+*.zip
+
+# Local tooling
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.ruff_cache/
+.env
+.env.*
